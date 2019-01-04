@@ -1,0 +1,7 @@
+#property files are only for global variables
+
+url = https://www.freecrm.com/
+username = hilal2018
+password = Test@1234
+
+browser = chrome

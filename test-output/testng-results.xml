@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="FREE CRM Application Test Automation Test Suite" duration-ms="316626" started-at="2019-01-01T03:00:59Z" finished-at="2019-01-01T03:06:15Z">
+    <groups>
+    </groups>
+    <test name="POM Model Test Cases" duration-ms="316626" started-at="2019-01-01T03:00:59Z" finished-at="2019-01-01T03:06:15Z">
+      <class name="com.crm.qa.testcases.TasksPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.TasksPageTest@59f99ea]" name="setUp" is-config="true" duration-ms="84677" started-at="2018-12-31T22:00:59Z" finished-at="2018-12-31T22:02:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyShowingAllTaksLabelTest()[pri:1, instance:com.crm.qa.testcases.TasksPageTest@59f99ea]" name="verifyShowingAllTaksLabelTest" duration-ms="278" started-at="2018-12-31T22:02:24Z" finished-at="2018-12-31T22:02:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyShowingAllTaksLabelTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.TasksPageTest@59f99ea]" name="tearDown" is-config="true" duration-ms="2361" started-at="2018-12-31T22:02:24Z" finished-at="2018-12-31T22:02:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.TasksPageTest@59f99ea]" name="setUp" is-config="true" duration-ms="62271" started-at="2018-12-31T22:02:44Z" finished-at="2018-12-31T22:03:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="enterNewTasksInfoTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.crm.qa.testcases.TasksPageTest@59f99ea]" name="enterNewTasksInfoTest" duration-ms="18339" started-at="2018-12-31T22:03:46Z" data-provider="getPOMModelTestData" finished-at="2018-12-31T22:04:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[login]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Complete]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[0.7]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Meeting]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[High]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterNewTasksInfoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.TasksPageTest@59f99ea]" name="tearDown" is-config="true" duration-ms="1622" started-at="2018-12-31T22:04:04Z" finished-at="2018-12-31T22:04:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.TasksPageTest@59f99ea]" name="setUp" is-config="true" duration-ms="44912" started-at="2018-12-31T22:04:06Z" finished-at="2018-12-31T22:04:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="enterNewTasksInfoTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.crm.qa.testcases.TasksPageTest@59f99ea]" name="enterNewTasksInfoTest" duration-ms="8152" started-at="2018-12-31T22:04:51Z" data-provider="getPOMModelTestData" finished-at="2018-12-31T22:04:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[homepage]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Open]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[0.3]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Call]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Normal]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterNewTasksInfoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.TasksPageTest@59f99ea]" name="tearDown" is-config="true" duration-ms="1668" started-at="2018-12-31T22:04:59Z" finished-at="2018-12-31T22:05:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.TasksPageTest@59f99ea]" name="setUp" is-config="true" duration-ms="60738" started-at="2018-12-31T22:05:01Z" finished-at="2018-12-31T22:06:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="enterNewTasksInfoTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.crm.qa.testcases.TasksPageTest@59f99ea]" name="enterNewTasksInfoTest" duration-ms="9682" started-at="2018-12-31T22:06:01Z" data-provider="getPOMModelTestData" finished-at="2018-12-31T22:06:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[delas]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Open]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[0.1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Email]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Low]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterNewTasksInfoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.TasksPageTest@59f99ea]" name="tearDown" is-config="true" duration-ms="4353" started-at="2018-12-31T22:06:11Z" finished-at="2018-12-31T22:06:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.TasksPageTest -->
+    </test> <!-- POM Model Test Cases -->
+  </suite> <!-- FREE CRM Application Test Automation Test Suite -->
+</testng-results>
